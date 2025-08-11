@@ -1,11 +1,33 @@
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+body(
+  background: #ccc;
+)
 main{
   width: 100%;
-  max-width: 1200px;
-  height: 1000px;
+  height: auto;
   background: #999;
+}
+header{
+  width: 100%;
+  height: 40vh;
+  background: #000;
+}
+  .produtos{
+  width: 100%;
+  height: 50vh;
+  background: #00f;
+}
+.destaque{
+width: 100%;
+  height: 50vh;
+  background: #f00;
+}
+.produtos{
+  width: 100%;
+  height: 50vh;
+  background: #f00;
+}
+footer{
+  width: 100%;
+  height: 20vh;
+  background: #0f0;
 }
