@@ -1,0 +1,43 @@
+body(
+  background: #ccc;
+)
+main{
+  width: 100%;
+  height: auto;
+  background: #999;
+}
+header{
+  width: 100%;
+  height: 40vh;
+  background: #04011a;
+}
+.produtos{
+  width: 100%;
+  height: 50vh;
+  background: #00f;
+}
+.card{
+  width: 90%;
+  height: auto;
+  background: #fff;
+  float: left;
+}
+.card h2{
+  width: 90%;
+  float: left;
+  margin-left: 5%;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+}
+.destaque{
+width: 100%;
+  height: 50vh;
+  background: #f00;
+}
+footer{
+  width: 100%;
+  height: 20vh;
+  background: #0f0;
+}
